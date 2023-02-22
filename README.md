@@ -18,5 +18,7 @@ Here are some ideas to get you started:
   <h2>Hi there 👋 My name is Yeokim</h2><br>
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=duswnsxnxn%20&fontSize=90">
   <a href="https://abstracted-harmony-a37.notion.site/97cfc5bbbb404559b4ce28ce76dff120"><img src=https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566778642/noticon/kjaaizycfgz017qxvlnu.png></a>
+  
+  <img src="https://camo.githubusercontent.com/ec3468c6b18be72f4e7db5b08086a404905cf98223817e701b7e485541b6978c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3243323235353f7374796c653d666c61742d737175617265266c6f676f3d45636c69707365494445266c6f676f436f6c6f723d7768697465"></img>
 </div>
 
