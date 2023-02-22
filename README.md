@@ -1,5 +1,5 @@
 <img src="https://camo.githubusercontent.com/58e9878469495c375c8114d0fc23e784d4a105932d9245681bcf38be5386c7e2/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d63686f696465616b6f6f6b266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="duswnsxnxn" data-canonical-src="https://komarev.com/ghpvc/?username=duswnsxnxn&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"><br>
-  <h2>Hi there 👋 My name is duswnsxnxn</h2>
+  <h2>Hi there 👋 My name is YeonJoon Kim</h2>
   <a href="https://abstracted-harmony-a37.notion.site/97cfc5bbbb404559b4ce28ce76dff120"><img src="https://img.shields.io/badge/BLOG-282828?style=flat-square&logo=Notion&logoColor=white" width="100"/></a><br>
   <h2>🌱Skills</h2>
 <p dir="auto"> 
