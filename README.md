@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   <h2>Hi there 👋 My name is Yeokim</h2><br>
-  <a href="https://abstracted-harmony-a37.notion.site/97cfc5bbbb404559b4ce28ce76dff120"><img src="https://img.shields.io/badge/Blog-grey?style=flat-square&logo=Notion&logoColor=white" width="100"/></a>
+  <a href="https://abstracted-harmony-a37.notion.site/97cfc5bbbb404559b4ce28ce76dff120"><img src="https://img.shields.io/badge/Blog-darkgrey?style=flat-square&logo=Notion&logoColor=white" width="100"/></a>
   <h2>🌱Skills</h2>
   <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Notion&logoColor=white"/>
