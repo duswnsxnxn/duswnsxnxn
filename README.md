@@ -27,3 +27,14 @@ Here are some ideas to get you started:
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7e7632bce6f287b8400b8b88e94e1ff6b572dec2d5b14b4ad30ac03721c355c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a656e6b696e732d2532333243353236332e7376673f7374796c653d666c61742d737175617265266c6f676f3d6a656e6b696e73266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/7e7632bce6f287b8400b8b88e94e1ff6b572dec2d5b14b4ad30ac03721c355c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a656e6b696e732d2532333243353236332e7376673f7374796c653d666c61742d737175617265266c6f676f3d6a656e6b696e73266c6f676f436f6c6f723d7768697465" alt="Jenkins" data-canonical-src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&amp;logo=jenkins&amp;logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8260b3c2bac61c688955ea75b0412cbdbe7651a10c54869c692b013096540d9e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033322e7376673f267374796c653d666c61742d737175617265266c6f676f3d476974266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/8260b3c2bac61c688955ea75b0412cbdbe7651a10c54869c692b013096540d9e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033322e7376673f267374796c653d666c61742d737175617265266c6f676f3d476974266c6f676f436f6c6f723d7768697465" alt="Git" data-canonical-src="https://img.shields.io/badge/Git-F05032.svg?&amp;style=flat-square&amp;logo=Git&amp;logoColor=white" style="max-width: 100%;"></a>
 </p><br>
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
