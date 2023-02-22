@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <a href="https://abstracted-harmony-a37.notion.site/97cfc5bbbb404559b4ce28ce76dff120"><img src="https://img.shields.io/badge/BLOG-282828?style=flat-square&logo=Notion&logoColor=white" width="100"/></a>
   <h2>🌱Skills</h2>
   <p align="left" dir="auto"> 
-  <img src="https://img.shields.io/badge/SpringBoot-#6DB33F?style=flat-square&logo=SpringBoot&logoColor=#6DB33F" style="max-width: 100%;"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=6DB33F" style="max-width: 100%;"/>
   <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Notion&logoColor=white" style="max-width: 100%;"/>
 <br><br>
 </p>
