@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 <div align="center">
 ### Hi there 👋 My name is Yeokim
-  ###<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90">
-### https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566778642/noticon/kjaaizycfgz017qxvlnu.png(https://abstracted-harmony-a37.notion.site/97cfc5bbbb404559b4ce28ce76dff120)
+  ###<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=duswnsxnxn%20render&fontSize=90">
+  ###<a href="https://abstracted-harmony-a37.notion.site/97cfc5bbbb404559b4ce28ce76dff120"><img src=https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566778642/noticon/kjaaizycfgz017qxvlnu.png></a>
 </div>
 
