@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  Hi there 👋 My name is Yeokim
+  <h2>Hi there 👋 My name is Yeokim</h2><br>
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=duswnsxnxn%20&fontSize=90">
   <a href="https://abstracted-harmony-a37.notion.site/97cfc5bbbb404559b4ce28ce76dff120"><img src=https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566778642/noticon/kjaaizycfgz017qxvlnu.png></a>
 </div>
